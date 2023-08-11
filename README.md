@@ -1,4 +1,3 @@
-
 <h1>Vilayat Aliyev</h1>
 
 **`.Net Developer & Instructor`**
@@ -39,12 +38,12 @@
 
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AliyevVilayat/Svg/50516e7688a7fcd548c437ddafba93fe4535d473/github-user-contribution%20(3).svg?token=A3ZYRKDHCCJFLKOSOD4MNOLE2WD5Y" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AliyevVilayat/Svg/a819d690d29f2b524ef3c67a18f2710458b18dc5/github-user-contribution%20(2).svg?token=A3ZYRKB36JLL27ICAFS3B3DE2WCYI" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AliyevVilayat/Svg/a819d690d29f2b524ef3c67a18f2710458b18dc5/github-user-contribution%20(2).svg?token=A3ZYRKB36JLL27ICAFS3B3DE2WCYI" />
-</picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AliyevVilayat/Svg/50516e7688a7fcd548c437ddafba93fe4535d473/github-user-contribution%20(3).svg?token=A3ZYRKBDL625Y5DAZM7UUUTE2WFWU" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AliyevVilayat/Svg/50516e7688a7fcd548c437ddafba93fe4535d473/github-user-contribution%20(2).svg?token=A3ZYRKDIO77JKCBSVD7KFEDE2WFY2" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AliyevVilayat/Svg/50516e7688a7fcd548c437ddafba93fe4535d473/github-user-contribution%20(2).svg?token=A3ZYRKDIO77JKCBSVD7KFEDE2WFY2" />
+</picture>
 
 
 
