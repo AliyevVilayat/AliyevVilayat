@@ -2,7 +2,16 @@
 
 **`.Net Developer & Instructor`**
 
-<a href="https://www.linkedin.com/in/vilayataliyev/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=000000&background=FFFFFF&width=800&height=60&lines=Hello+There+I'm+Vilayat+Aliyev;I'm+Back-End+Developer+And+Instructor" alt="Typing SVG" /></a>
+<a href="https://www.linkedin.com/in/vilayataliyev/">
+  
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=800&color=FFFFFF&vCenter=true&width=800&height=60&lines=Hello+There+I'm+Vilayat+Aliyev;I'm+Back-End+Developer+And+Instructor" />
+    
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=800&color=000000&background=FFFFFF00&vCenter=true&width=800&height=60&lines=Hello+There+I'm+Vilayat+Aliyev;I'm+Back-End+Developer+And+Instructor" />
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=800&color=000000&background=FFFFFF&vCenter=true&width=800&height=60&lines=Hello+There+I'm+Vilayat+Aliyev;I'm+Back-End+Developer+And+Instructor" alt="Typing SVG" />
+</picture>
+</a>
 
 <h2> 🚀 &nbsp;Connect with Me</h2>
 <a href="https://www.linkedin.com/in/vilayataliyev/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="intellij" width="45" height="45"/> </a>
