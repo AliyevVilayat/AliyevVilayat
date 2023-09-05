@@ -49,9 +49,9 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AliyevVilayat/Svg/881b18ba09c1d30003dbfa30f199260195462b0b/github-user-contribution.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AliyevVilayat/Svg/881b18ba09c1d30003dbfa30f199260195462b0b/github-user-contribution%20(1).svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AliyevVilayat/Svg/881b18ba09c1d30003dbfa30f199260195462b0b/github-user-contribution%20(1).svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AliyevVilayat/Svg/66743c3eade394f0b0e08d03a058e1402c91105f/github-user-contribution%20(1).svg?token=A3ZYRKC3JL5G2IDR6U4GJSLE664KQ" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AliyevVilayat/Svg/66743c3eade394f0b0e08d03a058e1402c91105f/github-user-contribution.svg?token=A3ZYRKF4MHCTVHMR72TXYJLE664GO" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AliyevVilayat/Svg/66743c3eade394f0b0e08d03a058e1402c91105f/github-user-contribution.svg?token=A3ZYRKF4MHCTVHMR72TXYJLE664GO" />
 </picture>
 
 
