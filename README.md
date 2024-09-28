@@ -47,14 +47,10 @@
 
 </p>
 
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AliyevVilayat/Svg/66743c3eade394f0b0e08d03a058e1402c91105f/github-user-contribution%20(1).svg?token=A3ZYRKC3JL5G2IDR6U4GJSLE664KQ" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AliyevVilayat/Svg/66743c3eade394f0b0e08d03a058e1402c91105f/github-user-contribution.svg?token=A3ZYRKF4MHCTVHMR72TXYJLE664GO" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AliyevVilayat/Svg/66743c3eade394f0b0e08d03a058e1402c91105f/github-user-contribution.svg?token=A3ZYRKF4MHCTVHMR72TXYJLE664GO" />
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
 </picture>
-
-
-
 
 
